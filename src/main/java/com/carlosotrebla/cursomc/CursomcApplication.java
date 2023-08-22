@@ -1,5 +1,7 @@
 package com.carlosotrebla.cursomc;
 
+
+
 import com.carlosotrebla.cursomc.domain.Categoria;
 import com.carlosotrebla.cursomc.domain.Produto;
 import com.carlosotrebla.cursomc.repositories.CategoriaRepository;
